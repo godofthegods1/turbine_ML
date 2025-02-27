@@ -10,13 +10,10 @@ This repository contains a computational model for optimizing water turbine effi
 - **Optimization Progression Tracking** for analysis.
 
 ## Usage
-Run the main script to perform optimization and visualization:
-```sh
-python src/main.py
-```
 
 You may edit the sample data [here](water_turbine_data.csv)
 
+The number of tests run and other parameters can be changed in the [python file](model.py).
 ---
 
 [Google Colab File](https://colab.research.google.com/drive/1kytcyrQG2u2ZQx4cmzU8dyVWjfJpEjzv?usp=sharing)
