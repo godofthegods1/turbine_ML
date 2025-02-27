@@ -57,7 +57,7 @@ surf = ax.plot_surface(X_mesh, Y_mesh, Z_pred, cmap=cm.viridis, edgecolor='k', l
 ax.set_xlabel("Number of Paddles")
 ax.set_ylabel("Paddle Angle")
 ax.set_zlabel("Predicted Millivolts")
-ax.set_title("3D Surface Plot of Optimized Turbine Output=")
+ax.set_title("3D Surface Plot of Optimized Turbine Output")
 fig.colorbar(surf, shrink=0.5, aspect=5)
 plt.show()
 
