@@ -66,7 +66,7 @@ generations = np.arange(len(res.func_vals))
 plt.figure(figsize=(8, 5))
 plt.plot(generations, -np.array(res.func_vals), marker='o', linestyle='-', color='b')
 plt.xlabel("Iterations")
-plt.ylabel("Millivolt Output")
+plt.ylabel("Volts Output")
 plt.title("Optimization Progression")
 plt.show()
 
