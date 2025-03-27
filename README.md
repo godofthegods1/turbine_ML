@@ -1,4 +1,4 @@
-# Bayesian Turbine Optimization
+# Water Turbine Optimization
 
 ## Overview
 This repository contains a computational model for optimizing water turbine efficiency using Bayesian Optimization and Gaussian Process Regression (GPR). The model predicts the optimal number of paddles and paddle angle to maximize millivolt output.
